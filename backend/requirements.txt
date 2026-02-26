@@ -1,0 +1,9 @@
+fastapi==0.115.0
+uvicorn==0.30.0
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.1
+mlxtend==0.23.1
+python-multipart==0.0.9
+firebase-admin==6.5.0
+google-cloud-firestore==2.16.1
